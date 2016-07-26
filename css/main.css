@@ -1,0 +1,10 @@
+
+.row {
+	background-color: #9ECBF9;
+	border-top:2px solid white;
+	border-bottom: 2px solid #C99EA5;
+}
+h1{
+	text-align: center;
+	background-color: white;
+}
